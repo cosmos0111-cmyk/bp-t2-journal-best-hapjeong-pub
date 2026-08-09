@@ -26,7 +26,17 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://journal.best-hapjeong-pub.xyz/posts/field_note-002-1k0qwts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://journal.best-hapjeong-pub.xyz/posts/field_note-005-l0iq5n.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://journal.best-hapjeong-pub.xyz/posts/guide-001-1h84blj.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46,12 +56,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://journal.best-hapjeong-pub.xyz/posts/major_compare-003-oaf3yh.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://journal.best-hapjeong-pub.xyz/posts/myth-003-19v0em.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://journal.best-hapjeong-pub.xyz/posts/myth-005-1uh4p3o.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://journal.best-hapjeong-pub.xyz/posts/qa-002-1x4qxzu.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://journal.best-hapjeong-pub.xyz/posts/qa-004-3y9m67.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
